@@ -7,3 +7,4 @@ Feel free to contribute any way possible.
 1. Provision to add list of users to make game more balanced
    1. Example if names of the users are entered then more personalized tasks and balanced/distributed game can continue - **NEED TO ADD MORE** 
 1. Provision to upload excel data into database.
+1. Provision to add tasks to any user.
